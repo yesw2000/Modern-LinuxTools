@@ -1,13 +1,15 @@
+# 🧰 Modern Linux Tools: The Ultimate Toolkit 🧰
+
 Here is a detailed explanation of the tools included in the container, along with their official URLs:
 
-### Package Management
+### 📦 Package Management
 
 *   **micromamba**: A lightweight, fast, and standalone conda-compatible package and environment manager. It's used as the primary package manager in this project to ensure consistent and isolated environments.
     *   **URL**: [https://mamba.readthedocs.io/en/latest/user_guide/micromamba.html](https://mamba.readthedocs.io/en/latest/user_guide/micromamba.html)
 *   **uv**: An extremely fast Python package and environment manager, written in Rust. It's an all-in-one tool intended to replace `pip`, `pip-tools`, `virtualenv`, and other similar tools.
     *   **URL**: [https://github.com/astral-sh/uv](https://github.com/astral-sh/uv)
 
-### Search & Explorer
+### 🔍 Search & Explorer
 
 *   **ripgrep (rg)**: A line-oriented search tool that recursively searches your current directory for a regex pattern. It's known for its speed and by default respects your `.gitignore`.
     *   **URL**: [https://github.com/BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)
@@ -22,7 +24,7 @@ Here is a detailed explanation of the tools included in the container, along wit
 *   **broot**: An interactive tree-based file manager that helps you navigate directory structures and find files, with a focus on providing a clear overview of your filesystem.
     *   **URL**: [https://dystroy.org/broot/](https://dystroy.org/broot/)
 
-### File Management
+### 📁 File Management
 
 *   **yazi**: A fast, terminal-based file manager with Vim-like keybindings. It's written in Rust and features file previews for various formats.
     *   **URL**: [https://github.com/sxyazi/yazi](https://github.com/sxyazi/yazi)
@@ -39,7 +41,7 @@ Here is a detailed explanation of the tools included in the container, along wit
 *   **rip2**: A safe and ergonomic alternative to the `rm` command. Instead of permanently deleting files, it moves them to a "graveyard" directory for easy recovery.
     *   **URL**: [https://github.com/nivekuil/rip2](https://github.com/nivekuil/rip2)
 
-### Process & System
+### 💻 Process & System
 
 *   **procs**: A modern replacement for `ps` with a more user-friendly, colorized output. It can also show information like TCP/UDP ports and Docker container names.
     *   **URL**: [https://github.com/dalance/procs](https://github.com/dalance/procs)
@@ -48,7 +50,7 @@ Here is a detailed explanation of the tools included in the container, along wit
 *   **mcfly**: An intelligent shell history tool that replaces your standard `Ctrl+R` search with a context-aware search that prioritizes commands you've used in the current directory.
     *   **URL**: [https://github.com/cantino/mcfly](https://github.com/cantino/mcfly)
 
-### Git Tools
+### 🐙 Git Tools
 
 *   **gh**: The official GitHub command-line tool. It brings pull requests, issues, and other GitHub concepts to the terminal.
     *   **URL**: [https://cli.github.com/](https://cli.github.com/)
@@ -59,14 +61,14 @@ Here is a detailed explanation of the tools included in the container, along wit
 *   **lazygit**: A simple terminal UI for git commands. It allows you to easily manage your repository without having to memorize all the git commands.
     *   **URL**: [https://github.com/jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)
 
-### Development
+### 🧑‍💻 Development
 
 *   **rust** & **cargo**: The Rust programming language and its official build tool and package manager.
     *   **URL**: [https://www.rust-lang.org/](https://www.rust-lang.org/)
 *   **tealdeer (tldr)**: A very fast implementation of `tldr`, which provides simplified and community-driven man pages with practical examples.
     *   **URL**: [https://github.com/dbrgn/tealdeer](https://github.com/dbrgn/tealdeer)
 
-### AI Tools
+### 🤖 AI Tools
 
 *   **gemini-cli**: A command-line interface for Google's Gemini AI models, allowing you to interact with the AI for coding, debugging, and other tasks.
     *   **URL**: [https://github.com/google/gemini-cli](https://github.com/google/gemini-cli)
@@ -77,14 +79,14 @@ Here is a detailed explanation of the tools included in the container, along wit
 *   **goose**: A local, extensible, open-source AI agent that can automate engineering tasks.
     *   **URL**: [https://github.com/block/goose](https://github.com/block/goose)
 
-### Container Tools
+### 🐳 Container Tools
 
 *   **crane**: A tool for interacting with remote container images and registries without needing a local Docker daemon.
     *   **URL**: [https://github.com/google/go-containerregistry/tree/main/cmd/crane](https://github.com/google/go-containerregistry/tree/main/cmd/crane)
 *   **dive**: A tool for exploring a Docker image, layer by layer, to discover ways to shrink its size.
     *   **URL**: [https://github.com/wagoodman/dive](https://github.com/wagoodman/dive)
 
-### Utilities
+### 🔧 Utilities
 
 *   **hyperfine**: A command-line benchmarking tool that provides statistical analysis of command execution times.
     *   **URL**: [https://github.com/sharkdp/hyperfine](https://github.com/sharkdp/hyperfine)
