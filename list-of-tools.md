@@ -1,0 +1,33 @@
+- **micromamba**: Lightweight, fast, standalone conda-compatible package and env manager.
+- **uv**: Ultra-fast, all-in-one Python package and environment manager written in Rust.
+- **tldr**: Simplified and community-driven man pages for command-line tools.
+- **cargo**: Rust’s official package manager and build tool for managing Rust projects.
+- **rg**: Fast, recursive command-line search tool (ripgrep) for code and text.
+- **ugrep**: Ultra fast, user-friendly grep replacement with interactive/fuzzy search.
+- **fzf**: Blazing fast, interactive command-line fuzzy finder for files and text.
+- **sk**: Fuzzy finder and selector for the command line, similar to fzf.
+- **crane**: A versatile command-line tool for managing container images and registries.
+- **dive**: Explore and analyze Docker image contents layer by layer.
+- **procs**: Modern replacement for ps with colored, user-friendly process listings.
+- **btop**: Resource monitor with a slick, interactive terminal UI for system stats.
+- **mcfly**: Smart and searchable shell history replacement with context awareness.
+- **fd**: Simple, fast, user-friendly alternative to find for file searching.
+- **broot**: Tree-based file manager and fuzzy finder for navigating directories.
+- **yazi**: Blazing fast, vim-style, Rust-based terminal file manager for Linux.
+- **lsd**: Modern, colorful, and user-friendly replacement for the ls command.
+- **bat**: Cat clone with syntax highlighting and Git integration for viewing files.
+- **glow**: Stylish markdown reader for the terminal with GitHub integration.
+- **gh**: Interact with GitHub from your terminal.
+- **delta**: Syntax-highlighting pager for git, diff, and code review output.
+- **git-lfs**: Git extension for versioning large files efficiently.
+- **lazygit**: Simple, fast, terminal UI for Git commands and workflows.
+- **gemini**: Command-line interface for Google Gemini AI.
+- **claude**: Claude AI coding assistant in your terminal.
+- **copilot-api**: Enables Copilot models in Claude Code & Copilot Sonnet models in Aider.
+- **goose**: a local, extensible, open source AI agent that automates engineering tasks.
+- **hyperfine**: Command-line benchmarking tool for measuring execution time.
+- **direnv**: Environment variable manager for shell directory-based workflows.
+- **zellij**: Terminal workspace and multiplexer with a live keybinding guide interface.
+- **duf**: Disk usage/free space analyzer with a user-friendly terminal UI.
+- **dust**: Intuitive, colorful disk usage analyzer for the command line.
+- **rip**: Safe and fast alternative to rm for removing files and directories.

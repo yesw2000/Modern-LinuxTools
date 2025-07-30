@@ -1,0 +1,15 @@
+# Backup files
+*~
+
+# CLI configuration files
+GEMINI.md
+CLAUDE.md
+
+# Node dependencies
+node_modules/
+
+# Build results
+results.txt
+
+# Old files
+Old/
