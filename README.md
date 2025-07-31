@@ -42,6 +42,8 @@ Tools are organized into functional categories:
 - **🐳 Container Tools**: crane, dive
 - **🔧 Utilities**: hyperfine, direnv, zellij
 
+For a detailed explanation of each tool, please refer to the [Doc-of-tools.md](Doc-of-tools.md).
+
 ## ⌨️  Common Commands
 
 ### 🧱 Building Containers

@@ -77,7 +77,7 @@ setup_me() {
 - For command usage, run '${redCol}<command> --help\e[0m' (e.g., '${redCol}rg --help\e[0m').
 - For quick examples (except for gemini, copilot-api, and goose),
       use '${redCol}tldr <command>\e[0m' (e.g., '${redCol}tldr rg\e[0m')."
-   type -t git_delta &> /dev/null && echo -e "A wrapper function ${redCol}git_delta\e[0m is defined. Run 'git_delta -h' for help"
+   command -v git_delta &> /dev/null && echo -e "A wrapper function ${redCol}git_delta\e[0m is defined. Run 'git_delta -h' for help"
 }
 
 mamba_new() {
